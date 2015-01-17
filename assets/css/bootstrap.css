@@ -835,7 +835,6 @@ pre code {
 .col-md-12,
 .col-lg-1,
 .col-lg-2,
-.col-lg-3,
 .col-lg-4,
 .col-lg-5,
 .col-lg-6,
@@ -849,6 +848,14 @@ pre code {
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
+}
+
+.col-lg-3 {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  color: white;
 }
 
 .col-xs-1,
